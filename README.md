@@ -1,7 +1,3 @@
-<img src="Foto_Ralph_Wystup.jpg" align="right" width="150" alt="Prof. Dr.-Ing. Ralph Wystup">
-
-# Prof. Dr.-Ing. Ralph Wystup M.Sc.
-
 Lehr- und Laborarbeiten zur Elektrotechnik: jede als eigenes Repositorium, jede mit einem
 Manuskript, das die Herleitung geschlossen zeigt, und mit einer Seite, die im Browser rechnet.
 Die Seiten laufen ohne Netz, ohne Installation und ohne Anmeldung — ein Klick auf „Seite", und
