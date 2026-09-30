@@ -24,6 +24,7 @@ Alle Arbeiten entstanden mit KI und Agent (Claude Code, Anthropic).
 | Arbeit | Worum es geht | |
 |:--|:--|:--|
 | **Schaltungssimulation nichtlinearer Differentialgleichungssysteme** | Erweiterte Knotenanalyse, Newton-Raphson und Euler am Beispiel der B4-Brücke mit belastetem RC-Glied | [Seite](https://ralphwystup.github.io/Schaltungssimulation-von-nichtlinearen-Differentialgleichungssystemen/) · [Code](https://github.com/RalphWystup/Schaltungssimulation-von-nichtlinearen-Differentialgleichungssystemen) |
+| **Kennlinienschreiber für Transistoren** | Ein selbstgebauter Messplatz nimmt Kennlinienfelder auf: zwei Digital-Analog-Umsetzer, vier Analog-Digital-Umsetzer, eine Kaskade aus zwei Reglern | [Seite](https://ralphwystup.github.io/Kennlinienschreiber-fuer-Transistoren-mit-ESP32-und-BJT-Modell/) · [Code](https://github.com/RalphWystup/Kennlinienschreiber-fuer-Transistoren-mit-ESP32-und-BJT-Modell) |
 
 ## Messen mit Kamera und Sensor
 
@@ -32,6 +33,7 @@ Alle Arbeiten entstanden mit KI und Agent (Claude Code, Anthropic).
 | **Tomatenwächter** | Wann muss gegossen werden? Eine Kamera erkennt hängende Blätter am Excess-Green-Index, ein Raspberry Pi entscheidet | [Seite](https://ralphwystup.github.io/Tomatenwaechter-Bildgestuetzte-Welkeerkennung-mit-ESP32-CAM-und-Raspberry-Pi/) · [Code](https://github.com/RalphWystup/Tomatenwaechter-Bildgestuetzte-Welkeerkennung-mit-ESP32-CAM-und-Raspberry-Pi) |
 | **Wärmebild-Fusion mit ESP32-CAM und AMG8833** | Kamerabild und Wärmebild deckungsgleich übereinander, mit 64 Thermoelementen und der Parallaxe zweier Augen | [Seite](https://ralphwystup.github.io/Waermebild-Fusion-mit-ESP32-CAM-und-AMG8833/) · [Code](https://github.com/RalphWystup/Waermebild-Fusion-mit-ESP32-CAM-und-AMG8833) |
 | **Automatisch gesteuertes Lichtmikroskop mit KI** | Aufbau, Algorithmen, Fernwartung und ein KI-Fenster — eine Laborstation für Studierende | [Seite](https://ralphwystup.github.io/Automatisch-gesteuertes-Lichtmikroskop-mit-KI/) · [Code](https://github.com/RalphWystup/Automatisch-gesteuertes-Lichtmikroskop-mit-KI) |
+| **Analoganzeige optisch lesen** | Ein Zeigerinstrument ablesen, ohne es zu verändern: Skala und Zeiger werden in jedem Bild neu gefunden, ohne festen Drehpunkt und ohne Einlernen | [Seite](https://ralphwystup.github.io/Analoganzeige-optisch-lesen-mit-ESP32-S3/) · [Code](https://github.com/RalphWystup/Analoganzeige-optisch-lesen-mit-ESP32-S3) |
 
 ## Signale und Diagnose
 
