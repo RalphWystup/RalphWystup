@@ -24,6 +24,7 @@ Alle Arbeiten entstanden mit KI und Agent (Claude Code, Anthropic).
 | Arbeit | Worum es geht | |
 |:--|:--|:--|
 | **Schaltungssimulation nichtlinearer Differentialgleichungssysteme** | Erweiterte Knotenanalyse, Newton-Raphson und Euler am Beispiel der B4-Brücke mit belastetem RC-Glied | [Seite](https://ralphwystup.github.io/Schaltungssimulation-von-nichtlinearen-Differentialgleichungssystemen/) · [Code](https://github.com/RalphWystup/Schaltungssimulation-von-nichtlinearen-Differentialgleichungssystemen) |
+| **Transistoren, der Transistortester und die daraus erzeugten Modelle** | Von der Messung zum eigenen Berechnungsverfahren: Kennlinien messen, Gummel-Poon-Parameter bestimmen, und mit einem eigenen Löser ganze Schaltungen rechnen | [Seite](https://ralphwystup.github.io/Transistoren-Transistortester-und-daraus-erzeugte-Modelle/) · [Code](https://github.com/RalphWystup/Transistoren-Transistortester-und-daraus-erzeugte-Modelle) |
 | **Kennlinienschreiber für Transistoren** | Ein selbstgebauter Messplatz nimmt Kennlinienfelder auf: zwei Digital-Analog-Umsetzer, vier Analog-Digital-Umsetzer, eine Kaskade aus zwei Reglern | [Seite](https://ralphwystup.github.io/Kennlinienschreiber-fuer-Transistoren-mit-ESP32-und-BJT-Modell/) · [Code](https://github.com/RalphWystup/Kennlinienschreiber-fuer-Transistoren-mit-ESP32-und-BJT-Modell) |
 
 ## Messen mit Kamera und Sensor
