@@ -45,6 +45,13 @@ Alle Arbeiten entstanden mit KI und Agent (Claude Code, Anthropic).
 | **Akustische Rohrdiagnose mit einem dynamischen Netzwerkzwilling** | Von der Impulsantwort zur Erkennung von Seitenrohr und Belag, mit einer überlagerten lernenden Ebene | [Seite](https://ralphwystup.github.io/Akustische-Rohrdiagnose-mit-einem-dynamischen-Netzwerkzwilling/) · [Code](https://github.com/RalphWystup/Akustische-Rohrdiagnose-mit-einem-dynamischen-Netzwerkzwilling) |
 | **Wetter-Fernschreiber Siemens T68d** | Der Wetterbericht auf einem Streifenschreiber von 1959: RTTY und ITA2 bei 50 Baud. Die Seite druckt das wirkliche Wetter für einen Ort, den man eingibt | [Seite](https://ralphwystup.github.io/Wetter-Fernschreiber-Siemens-T68d-RTTY-und-ITA2-mit-ESP32/) · [Code](https://github.com/RalphWystup/Wetter-Fernschreiber-Siemens-T68d-RTTY-und-ITA2-mit-ESP32) |
 
+## Methode und Erkenntnis
+
+| Arbeit | Worum es geht | |
+|:--|:--|:--|
+| **Wie eine KI lokale Hard- und Software steuert** | Ein Agent auf einem Server steuert Geräte und Programme, die woanders stehen — ohne einen einzigen offenen Port. Der Arbeitsplatz holt sich die Aufträge, statt dass jemand sich zu ihm verbindet. Mit lauffähigem Bausatz | [Seite](https://ralphwystup.github.io/KI-steuert-lokale-Hardware-ueber-eine-Bruecke/) · [Code](https://github.com/RalphWystup/KI-steuert-lokale-Hardware-ueber-eine-Bruecke) |
+| **Levitation als Ingenieursaufgabe** | Was müsste ein Vorgang leisten, wenn die Berichte über die schwebenden Heiligen zuträfen? Prämisse annehmen, Folgen rechnen — heraus kommt eine Spezifikation mit neun Anforderungen | [Seite](https://ralphwystup.github.io/Levitation-als-Ingenieursaufgabe/) · [Code](https://github.com/RalphWystup/Levitation-als-Ingenieursaufgabe) |
+
 ## Wie die Arbeiten aufgebaut sind
 
 Jede folgt demselben Muster, damit man sich nicht neu zurechtfinden muss:
